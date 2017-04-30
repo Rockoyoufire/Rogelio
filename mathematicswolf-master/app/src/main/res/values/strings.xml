@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MathematicsWolf</string>
+
+    <!--permisos-->
+    <string name="faltan_permisos">Faltan permisos , la aplicaion no funionara de manera correcta </string>
+    <string name="info_permisos">La aplicaion no funionara de manera correcta </string>
+
+
+    <string name="string_choose_image">Seleccionar imagen para enviar</string>
+    <string name="string_message_to_attach_file">Primero adjuntar archivo para cargarlo</string>
+    <string name="string_unable_to_pick_image">No se puede seleccionar la imagen</string>
+    <string name="string_unable_to_load_image">No se puede cargar la imagen</string>
+    <string name="string_reselect">Haga clic en Imagen para volver a seleccionar</string>
+</resources>
